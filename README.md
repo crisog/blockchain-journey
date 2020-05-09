@@ -1,5 +1,5 @@
 # My personal journey 
-Well, after using Cryptocurrencies since 2017. I decided to give a step forward (i know, a bit late) and actually learn about the ecosystem that is built around blockchain and how it solves real problems.
+After using Cryptocurrencies since 2017, I decided to give a step forward (i know, a bit late) and actually learn about the ecosystem that is built around blockchain and how it solves real problems.
 
 I'm mostly interested in the DAOs since I think they are going to be the future of how organizations are managed and I want to be part of it.
 
